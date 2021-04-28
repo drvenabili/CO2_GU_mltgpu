@@ -1,0 +1,1 @@
+This small notebook should allow students of GU's MLT programme to estimate their CO2 consumption when training models.
